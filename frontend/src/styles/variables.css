@@ -1,0 +1,12 @@
+:root {
+  --main-bg: #0b1729;
+  --sidebar-bg: #0e1d33;
+  --card-bg: #132640;
+  --soft-bg: #263c58;
+  --main-color: #f4f7fb;
+  --soft-color: #a8b7cc;
+  --accent: #3b9bff;
+  --success: #20c7a3;
+  --warning: #ffb547;
+  --danger: #ff6577;
+}
